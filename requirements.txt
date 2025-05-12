@@ -1,0 +1,11 @@
+langchain>=0.1.0
+flask>=2.0
+pypdf>=3.0.0
+python-dotenv>=1.0.0
+pinecone-client[grpc]>=3.0.0
+langchain-pinecone>=0.0.2
+langchain-community>=0.0.21
+langchain-openai>=0.0.6
+langchain-experimental>=0.0.14
+
+-e .
